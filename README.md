@@ -1,2 +1,2 @@
-# hw5_verstka
+# Homework 5
 ![Homework_printscree](./hw5.jpg)
